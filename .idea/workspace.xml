@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e68b59a1-5eb6-42af-ae26-133027d3c432" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Controller/InventoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Exception/CustomExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Exception/InventoryServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/InventoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Repository/InventoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/java/com/order/Service/InventoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inventory-Service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/CommonLibraryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Dto/InventoryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Dto/OrderDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Entity/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Event/OrderEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/src/main/java/com/order/Exception/OrderNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/CommonLibraryApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Config/KafkaConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Dto/InventoryDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Dto/OrderDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Entity/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Entity/Order.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Event/OrderEvent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-library/target/classes/com/order/Exception/OrderNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/Controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/Exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/Exception/OrderNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/Repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/order_service/Service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/test/java/order_service/OrderServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jUkbv9ADG7FnGqbyM7WLsbwffm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CommonLibraryApplication.executor": "Run",
+    "Application.OrderServiceApplication.executor": "Run",
+    "Maven.Inventory-Service [clean].executor": "Run",
+    "Maven.Inventory-Service [validate].executor": "Run",
+    "Maven.common-library [clean].executor": "Run",
+    "Maven.common-library [compile].executor": "Run",
+    "Maven.common-library [validate].executor": "Run",
+    "Maven.online-store [clean].executor": "Run",
+    "Maven.online-store [compile].executor": "Run",
+    "Maven.online-store [validate].executor": "Run",
+    "Maven.order-service [clean].executor": "Run",
+    "Maven.order-service [compile].executor": "Run",
+    "Maven.order-service [validate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mukosi Ozil/Desktop/online-store/order-service"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mukosi Ozil\Desktop\online-store\order-service\src\main\java\order_service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CommonLibraryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.order.CommonLibraryApplication" />
+      <module name="common-library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommonLibraryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68b59a1-5eb6-42af-ae26-133027d3c432" name="Changes" comment="" />
+      <created>1721449117475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721449117475</updated>
+    </task>
+    <servers />
+  </component>
+</project>
